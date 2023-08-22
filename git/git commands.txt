@@ -1,0 +1,42 @@
+Git  - Check if git is working
+
+Ls  - list directory
+
+Cd - change directory 
+
+Mkdir - Make directory 
+
+Ls -a (hidden file)
+
+Ls -Hidden (Windows)
+
+Init - initialize empty git repository 
+
+Ls .git
+
+Touch names.txt (Linux)
+
+Type nul > names.txt
+
+Git status - changes not history of the project
+
+Git add . (all files)
+
+Git add names.txt
+
+
+Git commit - m "names.txt file added"
+
+Vi names.txt
+
+Cat names.txt
+
+Git restore --staged names.txt 
+
+Git log 
+
+Git reset  hashname 
+
+Git stash 
+
+Git stash clear (delte the back staged changes) 
